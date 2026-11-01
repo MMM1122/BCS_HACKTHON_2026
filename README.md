@@ -109,6 +109,7 @@ Our intended impact includes:
 
    ```bash
    cd BCS_HACKTHON_2026
+   cd artwalk
    ```
 
 3. Install dependencies:
