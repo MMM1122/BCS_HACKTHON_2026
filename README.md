@@ -108,7 +108,7 @@ Our intended impact includes:
 2. Navigate to the project directory:
 
    ```bash
-   cd paw
+   cd BCS_HACKTHON_2026
    ```
 
 3. Install dependencies:
